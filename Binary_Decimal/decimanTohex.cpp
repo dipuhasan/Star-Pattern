@@ -28,3 +28,21 @@ int main(){
 
 Input : 10 15 16 31 65535
 Output: A  F  10 1F FFFF
+
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int a;
+    cin>>a;
+    printf("%X\n", a);
+
+    return 0;
+}
+
+
+
+
+
+
+
